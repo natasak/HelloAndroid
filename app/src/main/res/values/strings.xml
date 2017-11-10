@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+
+    <!-- text from XML file  -->
+    <string name="image_description">People working together image.</string>
+    <string name="better_together">BetterTogether</string>
+    <string name="image_home_description">Home icon</string>
+    <string name="image_phone_description">Phone icon</string>
+    <string name="image_web_description">Website icon</string>
+    <string name="logo_description">Udacity logo</string>
+    <string name="address">2465 Latham St\nMountain View, CA 94043</string>
+    <string name="phone">650&#8211;555&#8211;5555</string>
+    <string name="web">www.udacity.com</string>
+</resources>
